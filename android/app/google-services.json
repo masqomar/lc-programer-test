@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114805313538",
+    "project_id": "test-programer-lc",
+    "storage_bucket": "test-programer-lc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114805313538:android:48866d0528d9ef4368571b",
+        "android_client_info": {
+          "package_name": "com.example.lc_programer_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114805313538-5lonnactdv36b2t5a4o78kn2jtr2ivbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxsxbzp6Yaax6vn-ZjEr9Me78oP42vyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114805313538-5lonnactdv36b2t5a4o78kn2jtr2ivbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
